@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "raimvBP1bsBjUPiABbzAN8GcP7PnWo0RZOyVA8Uc4iejsN6rKW2Vu0d17jZwbrNLfYSNG3b8VI/GGKGoMJH+tw==",
+  "success": true,
+  "projectFilePath": "D:\\#1 CodingArea\\C#_Practice_Web\\SQLITE_Demo\\SQLITE_Demo\\SQLITE_Demo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Pattharapol Lakboon\\.nuget\\packages\\stub.system.data.sqlite.core.netstandard\\1.0.115.5\\stub.system.data.sqlite.core.netstandard.1.0.115.5.nupkg.sha512",
+    "C:\\Users\\Pattharapol Lakboon\\.nuget\\packages\\system.data.sqlite.core\\1.0.115.5\\system.data.sqlite.core.1.0.115.5.nupkg.sha512",
+    "C:\\Users\\Pattharapol Lakboon\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}
